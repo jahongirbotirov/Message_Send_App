@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Message Send Application</string>
+    <string name="send_message_button">Send Message</string>
+    <string name="hint_enter_message">Enter message</string>
+    <string name="title_choosen_text">How do you want to send message ?</string>
+</resources>
